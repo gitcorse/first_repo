@@ -1,5 +1,0 @@
-body{
-  whoami
-  my name is : gitcorse5
-  my name is : abdurhamnelmeziean
-}
